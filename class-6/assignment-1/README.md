@@ -1,6 +1,6 @@
 # Family-members-age-form
 
-A proyect for get the family size, create age inputs for each member, calculate/display oldest, youngest, and average age on button click.
+A proyect to get the family size, create age inputs for each member, calculate/display oldest, youngest, and average age on button click.
 
 ## Assignment
 

@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+body{
+    background: #545c5f;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#first-form{
+    font-size: 18px;
+}
+
+input{
+    color: #000;
+    background-color: #b7c7d6;
+    border: 1px solid #b7c7d6;
+    border-radius: 20px;
+    padding: 5px 15px;
+    font-size: 17px;
+    outline: none;
+}
+
+#amount-of-people{
+    width: 50px;
+    margin: 0 7px;
+}
+
+button{
+    background: #193e46;
+    height: 50px;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#submit-button{
+    margin: 0 17px;
+}
+
+#container{
+    font-size: 18px;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+#age-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.family-member-number{
+    padding: 5px;
+    margin: 5px;
+}
+
+.family-member-age{
+    margin: 0 40px 20px;
+}
+
+#calculate-button{
+    margin-bottom: 10px;
+}
+
+#clear-button{
+    margin-bottom: 15px;
+}
+
+span{
+    display: block;
+    margin: 10px 15px;
+}
